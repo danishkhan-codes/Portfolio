@@ -7,3 +7,4 @@ pandas
 numpy<2
 Pillow
 requests
+gunicorn
